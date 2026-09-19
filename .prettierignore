@@ -1,0 +1,11 @@
+**/*.vue
+.test/
+prettier.config.js
+.prettier.config.cjs
+.prettier.config.mjs
+node_modules/
+dist/
+release/
+coverage/
+locales/
+package/
