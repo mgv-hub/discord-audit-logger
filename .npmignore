@@ -7,19 +7,15 @@ storage/
 .test/
 
 dist/
-dist-ssr/
-dist-electron/
-release/
-coverage/
 .test/
 dev/
 .dev/
-quranbot.zip/
-QuranBot.zip/
-core.zip/
 testBot/
-Cortex-QuranBot-Redis/
+oid/
+bot-test/
+__test__/
 .vscode/
+
 
 test.txt
 package-lock.json
@@ -56,5 +52,4 @@ env.local
 development.env.local
 production.env.local
 
-oid/
-bot-test/
+
