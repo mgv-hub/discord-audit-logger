@@ -9,6 +9,7 @@ storage/
 dist/
 .test/
 dev/
+_dev/
 .dev/
 testBot/
 oid/
